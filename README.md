@@ -24,6 +24,9 @@ cd People-Counter-By-Area
 python3 main.py
 ```
 
+To see what it does just access trought your browser:
+http://<HOST IP>:5000
+
 
 ### IMPORTANT:
 I didint made this code 
