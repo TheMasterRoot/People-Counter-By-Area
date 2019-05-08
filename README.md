@@ -23,3 +23,10 @@ Finally:
 cd People-Counter-By-Area
 python3 main.py
 ```
+
+
+### IMPORTANT:
+I didint made this code 
+i just fixed it to work
+
+[AIKNOW](https://aiknow.ai/)
