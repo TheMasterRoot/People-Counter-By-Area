@@ -25,7 +25,7 @@ python3 main.py
 ```
 
 To see what it does just access trought your browser:
-http://<HOST IP>:5000
+http://HOST_IP:5000
 
 
 ### IMPORTANT:
