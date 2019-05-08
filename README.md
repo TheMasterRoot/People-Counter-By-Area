@@ -30,3 +30,4 @@ I didint made this code
 i just fixed it to work
 
 [AIKNOW](https://aiknow.ai/)
+![AIKNOW](https://aiknow.ai/logo.svg)
